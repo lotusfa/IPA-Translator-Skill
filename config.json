@@ -1,0 +1,33 @@
+{
+  "default_language": "yue",
+  "default_format": "org",
+  "available_languages": [
+    "yue",
+    "en_US",
+    "en_UK",
+    "eo",
+    "fr_FR",
+    "fr_QC",
+    "ja",
+    "zh_hans",
+    "zh_hant",
+    "fa",
+    "es_ES",
+    "es_MX"
+  ],
+  "available_formats": ["org", "num", "Jyutping"],
+  "language_names": {
+    "yue": "Cantonese",
+    "en_US": "English (US)",
+    "en_UK": "English (UK)",
+    "eo": "Esperanto",
+    "fr_FR": "French (FR)",
+    "fr_QC": "French (QC)",
+    "ja": "Japanese",
+    "zh_hans": "Mandarin (Simplified)",
+    "zh_hant": "Mandarin (Traditional)",
+    "fa": "Persian",
+    "es_ES": "Spanish (ES)",
+    "es_MX": "Spanish (MX)"
+  }
+}

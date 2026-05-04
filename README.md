@@ -2,6 +2,8 @@
 
 An IPA translation **Skill designed for LLM agents** (Claude Code, etc.). Agents use this skill to translate text to International Phonetic Alphabet (IPA) and romanization formats across 24 languages including Cantonese, Mandarin, English, Japanese, Korean, Vietnamese, French, Spanish, and German.
 
+**Source code:** [lotusfa/IPA-Translator](https://github.com/lotusfa/IPA-Translator)
+
 ## Usage
 
 Agents navigate to the web interface with query parameters:
